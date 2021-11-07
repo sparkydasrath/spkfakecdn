@@ -1,0 +1,2 @@
+# spkfakecdn
+Fake cdn
